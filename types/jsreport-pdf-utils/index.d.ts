@@ -25,7 +25,7 @@ declare namespace JsReportPdfUtils {
 
     interface PdfSign {
         certificateAsset: {
-            contrent: string;
+            content: string;
             encoding: string;
             password: string;
         };
